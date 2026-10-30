@@ -1,0 +1,554 @@
+From: comcash <work@comcash.cx>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_33CCE2F2-D2BA-4E3E-9549-E11FCCFC4241"
+Mime-Version: 1.0 (Mac OS X Mail 16.0 \(3864.600.51.1.1\))
+Subject: тема - ID: 21398
+X-Universally-Unique-Identifier: 4C2CE0D7-693B-4951-B396-71994F7E7D0A
+Message-Id: <7C1C091A-4838-42E8-A5C5-4BEBAEDD8FBD@comcash.cx>
+Date: Thu, 28 May 2026 01:24:14 +0300
+To: ilvina0206@mail.ru
+
+
+---------- text/plain ----------
+Добрый вечер , наш оператор по ошибке отправил на ваш адрес по этой заявке 3995 трх , можете отправить их обратно . Адрес дублирую сюда -TJReFyuFLK54ZVSW8RvSXZxhzTFfZsnfoU
+
+---------- text/html ----------
+Добрый вечер , наш оператор по ошибке отправил на ваш адрес по этой заявке 3995 трх , можете отправить их обратно . Адрес дублирую сюда -TJReFyuFLK54ZVSW8RvSXZxhzTFfZsnfoU
+
+
+
+Return-Path: <moskva@eobmen-obmen.ru>
+Delivered-To: pr@comcash.cx
+Received: from cp4.offsh.nl	by cp4.offsh.nl with LMTP	id qVYCO5wy/mmyIwoA92UKjQ	(envelope-from <moskva@eobmen-obmen.ru>)	for <pr@comcash.cx>; Fri, 08 May 2026 20:59:40 +0200
+Return-path: <moskva@eobmen-obmen.ru>
+Envelope-to: pr@comcash.cx
+Delivery-date: Fri, 08 May 2026 20:59:40 +0200
+Received: from smtp-web-out-1.timeweb.ru ([92.53.116.132])	by cp4.offsh.nl with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384	(Exim 4.99.1)	(envelope-from <moskva@eobmen-obmen.ru>)	id 1wLQQG-00000002p7K-1zcV	for pr@comcash.cx;	Fri, 08 May 2026 20:59:40 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;	d=eobmen-obmen.ru; s=dkim; h=Date:Message-Id:In-Reply-To:References:From:To:	Subject:MIME-Version:Content-Type:Sender:Reply-To:Cc:	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:	Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;	bh=RvU9AUS9mCE3x9JtVO3ng04wIWorDAA+EIeIKWw+pAc=; b=n9VwEALm7q7c6WDxHEsZa4VJJJ	xbr1VOlfy+DNj26pmewy0K35GiYUb4IJ/B+z0Mdylxj6cL8fqB25w5IjfQCUUzY0TFS9+nkr1+Op6	nC1ua5/93YraVuFyCHNXo7kUzJfq6iYx70iGbaaFSAWLhpZJxyD7D/UhsrVWWzSIt+q8=;
+Received: from [192.168.10.155] (helo=mail.timeweb.com)	by smtp-web.timeweb.net with esmtpa (Exim 4.97)	(envelope-from <moskva@eobmen-obmen.ru>)	id 1wLQQF-00000000f71-1CoE	for pr@comcash.cx;	Fri, 08 May 2026 21:59:39 +0300
+Content-Type: multipart/mixed; boundary="1d5efe31b7dc0f9eb38c7cef35fed48b5ef7f344e9be19d6a5969255bd9f"
+MIME-Version: 1.0
+Subject: Re: Заявка на включение обменного сервиса ComCash в листинг мониторинговой платформы
+To: pr@comcash.cx
+From: moskva@eobmen-obmen.ru
+X-Priority: 3 (Normal)
+References: <4c352b59-14ce-47ae-8241-000b59b0b2e8@comcash.cx> <2c7b41d9-c08b-4eda-b73c-eb46c30c0340@timeweb.com> <f28bbd2d-b026-4029-93c6-a561f91418f2@comcash.cx> <6e74c5cb-ec59-466c-8d99-888b745f25d1@timeweb.com> <894f2b3d-9255-4f79-aced-4c3dbf231293@comcash.cx> <a850da68-c787-4c3f-8223-7ef7828046f1@timeweb.com> <c91c0e22-97bb-42b9-b1e3-c9fa2972e6d1@timeweb.com> <ae51c9c1-a6f9-4071-afec-d030b854e725@timeweb.com>
+In-Reply-To: <ae51c9c1-a6f9-4071-afec-d030b854e725@timeweb.com>
+Message-Id: <39059b30-a0a7-4eff-b4cd-efbbe119fdbf@timeweb.com>
+Date: Fri, 08 May 2026 18:59:28 +0000
+
+
+---------- text/plain ----------
+Добрый день. Поскорее исправьте ошибки в XML файле. Посылаю адрес XML другого обменника https://allex.one/export.xml . Там всё верно . Для этого направления обмена для курса биткоина мы видим представление в виде десятичной дроби. Вам нужно сделать аналогично. Если еще будут вопросы, то напишите. Наталья.
+ 06.05.2026, 19:46, moskva@eobmen-obmen.ru Добрый день.Я являюсь администратором мониторинга обменников https://eobmen-obmen.ru.Мы добавили Ваш обменный пункт в рейтинг нашего мониторинга по Вашей просьбе.Ваша персональная страница https://eobmen-obmen.ru/comcash-detali Проверьте XML файл. Ошибки, например, на странице https://eobmen-obmen.ru/usdttrc-to-btc. В Вашем файле для этой страницы для курса биткоина мы видим следующее представление: <out> 1.242443445815E-5 </out> формат чисел с плавающей запятой. В XML другого обменника для этого направления обмена для курса биткоина мы видим представление: <out> 0.00001288 </out> десятичная дробь Таких ошибочных направлений, где Вы используете формат чисел с плавающей запятой, у Вас много. Надо исправить. Срочно. Вы портите картину на самых востребованных направлениях обмена. Вам от этого тоже минус. Пользователи не видят Ваш правильный курс обмена. Наталья. 30.04.2026, 15:27, moskva@eobmen-obmen.ru 
+ Добрый день.
+Я являюсь администратором мониторинга обменников https://eobmen-obmen.ru.
+Мы добавили Ваш обменный пункт в рейтинг нашего мониторинга по Вашей просьбе.
+Ваша персональная страница https://eobmen-obmen.ru/comcash-detali 
+Проверьте, пожалуйста, всё ли корректно. 
+Мы добавили небольшое рекламное описание на эту страницу, если Вы пришлёте свой вариант текста, то мы заменим.
+На странице также размещены отзывы на Ваш сервис. Отзывы и тексты на странице помогают ей продвигаться.
+Теперь мы исправно рекламируем Ваш сайт по всем Вашим направлениям обмена (90 направлений ). Мы регулярно обновляем Ваши резервы и курсы обмена.
+Также Вы есть в списке обменников и на страницах всех Ваших направлений обмена и мы занимаемся продвижением этих страниц.
+Прошу Вас разместить наш информер. Для нас это очень важно, это важно и для Вас, наличие перекрёстной ссылки на ресурс, который Вас рекламирует. 
+Можете использовать ссылку на Вашу персональную страничку.
+Информер :
+Для ссылок на наш мониторинг можно также использовать рисунки прямо с сайта : 
+https://eobmen-obmen.ru/EB2.png ;
+https://eobmen-obmen.ru/EB3.gif 
+https://eobmen-obmen.ru/informer2.jpg
+Рисунки по памяти очень маленькие и можно приспособить под Ваш дизайн, экономно добавить в строку с другими мониторингами.
+Наталья 
+---------------------------------------------------------------------------------------------------------------------------------
+PS.
+1. Сделала два файла svg, как Вы просили. Один побольше, другой поменьше.
+https://eobmen-obmen.ru/EB1.svg
+https://eobmen-obmen.ru/EB2.svg
+2. Проверьте XML файл. Ошибки, например, на странице https://eobmen-obmen.ru/usdttrc-to-btc.
+В Вашем файле для этой страницы видим
+USDTTRC20
+BTC
+1
+1.242443445815E-5
+0.62122172
+378 USDTTRC20
+472500 USDTTRC20
+В нормально работающем обменнике, например trusteeswap.com, видим
+USDTTRC20
+BTC
+51 USDT
+0.757344 USDT
+100
+1
+0.00001288
+Сравните. Уберите формат чисел с плавающей запятой. Таких направлений у Вас много. Надо исправить.
+ 28.04.2026, 11:15, moskva@eobmen-obmen.ru 
+ По поводу добавления обменника.
+Ок. Напишу, когда закончу работу.
+По поводу отдельной рекламы. У нас нет этой услуги.
+Наталья. 27.04.2026, 21:49, pr@comcash.cx Добрый вечер. Осуществили оплату. Также нас интересует покупка рекламы на вашем мониторинге. Предоставьте, пожалуйста, более детальную информацию, а также сразу укажите стоимость и ссылки. 
+Транзакция: https://tronscan.org/#/transaction/4030088b9f8cc031675d7750721118246c278e690b949ccc0b314b139f349d05 24.04.2026 0:10, moskva@eobmen-obmen.ru пишет:
+ 
+ Как можно оплатить:
+TEakeAMnAPFfvm87XW44k1oyP26W8h2qPt - tether (TRC20) USDT 
+TEakeAMnAPFfvm87XW44k1oyP26W8h2qPt - Tron
+ 23.04.2026, 22:11, pr@comcash.cx Здравствуйте, подскажите, пожалуйста, адрес USDT (TRC20). 23.04.2026 20:45, moskva@eobmen-obmen.ru пишет:
+ 
+ Добавим обменник в рейтинг мониторинга в течение трех суток после оплаты за добавление 1800 руб. либо $25 на наш электронный кошелёк. 23.04.2026, 11:32, pr@comcash.cx Уважаемые коллеги, Команда обменного сервиса ComCash обращается с просьбой рассмотреть возможность включения нашего проекта в ваш мониторинг обменных пунктов. ComCash представляет собой онлайн-сервис обмена цифровых активов, предоставляющий пользователям возможность осуществлять обмен между криптовалютами, электронными платёжными системами и фиатными средствами. Основной приоритет проекта — обеспечение быстрого и удобного обмена при стабильной работе сервиса и соблюдении базовых принципов безопасности операций. В рамках развития проекта мы заинтересованы в размещении на профильных мониторинговых площадках и расширении присутствия среди пользователей, активно использующих обменные сервисы. Общая информация о сервисе: 1. Наименование сервиса: ComCash 2. Формат деятельности: онлайн обменный сервис цифровых активов 3. Основные направления: криптовалюты / электронные платёжные системы / фиатные валюты 4. Режим работы: 24/7 Просим рассмотреть возможность включения сервиса ComCash в ваш мониторинг, а также направить информацию о требованиях, условиях размещения и порядке дальнейшего рассмотрения заявки. В случае необходимости готовы предоставить дополнительную информацию, необходимую для первичной модерации и принятия решения о листинге. С уважением, Команда ComCash Сайт: https://comcash.cc Telegram: https://t.me/comcash_exchange Telegram-bot: https://t.me/comcashBot Email: pr@comcash.cx Файл курсов: https://comcash.cc/request-exportxml.xml Дополнительная информация: Дата основания: 17.03.2023 Местоположение: Нидерланды
+
+---------- text/html ----------
+Добрый день. Поскорее исправьте ошибки в XML файле. Посылаю адрес XML другого обменника https://allex.one/export.xml&nbsp; . Там всё верно . Для этого направления обмена для курса биткоина мы видим &nbsp;представление в виде десятичной дроби. Вам нужно сделать аналогично. Если еще будут вопросы, то напишите. &nbsp; Наталья.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 06.05.2026, 19:46, moskva@eobmen-obmen.ru Добрый день.Я являюсь администратором мониторинга обменников&nbsp;https://eobmen-obmen.ru.Мы добавили Ваш обменный пункт в рейтинг нашего мониторинга по Вашей просьбе.Ваша персональная страница&nbsp;https://eobmen-obmen.ru/comcash-detali &nbsp;Проверьте XML файл. Ошибки, например, на странице https://eobmen-obmen.ru/usdttrc-to-btc. &nbsp; В Вашем файле для этой страницы для курса биткоина мы видим следующее представление: &nbsp; &nbsp; &lt;out&gt; &nbsp; &nbsp;1.242443445815E-5&nbsp; &nbsp; &lt;/out&gt;&nbsp; &nbsp;&nbsp;формат чисел с плавающей запятой. &nbsp; &nbsp; В XML другого обменника для этого направления обмена для курса биткоина мы видим&nbsp; представление: &nbsp; &nbsp;&lt;out&gt; &nbsp;0.00001288&nbsp; &nbsp;&lt;/out&gt;&nbsp; десятичная дробь &nbsp; &nbsp; &nbsp; Таких ошибочных направлений, где Вы используете&nbsp; формат чисел с плавающей запятой, у Вас много. Надо исправить. Срочно. Вы портите картину на самых востребованных направлениях обмена. Вам от этого тоже минус. Пользователи не видят Ваш правильный курс обмена. Наталья. &nbsp; 30.04.2026, 15:27,&nbsp;moskva@eobmen-obmen.ru &nbsp; Добрый день.Я являюсь администратором мониторинга обменников https://eobmen-obmen.ru.Мы добавили Ваш обменный пункт в рейтинг нашего мониторинга по Вашей просьбе.Ваша персональная страница https://eobmen-obmen.ru/comcash-detali Проверьте, пожалуйста, всё ли корректно. Мы добавили небольшое рекламное описание на эту страницу, если Вы пришлёте свой вариант текста, то мы заменим.На странице также размещены отзывы на Ваш сервис. Отзывы и тексты на странице помогают ей продвигаться.Теперь мы исправно рекламируем Ваш сайт по всем Вашим направлениям обмена (90 направлений ). Мы регулярно обновляем Ваши резервы и курсы обмена.Также Вы есть в списке обменников и на страницах всех Ваших направлений обмена и мы занимаемся продвижением этих страниц.Прошу Вас разместить наш информер. Для нас это очень важно, это важно и для Вас, наличие перекрёстной ссылки на ресурс, который Вас рекламирует. Можете использовать ссылку на Вашу персональную страничку.Информер :Для ссылок на наш мониторинг можно также использовать рисунки прямо с сайта : https://eobmen-obmen.ru/EB2.png ;https://eobmen-obmen.ru/EB3.gif https://eobmen-obmen.ru/informer2.jpgРисунки по памяти очень маленькие и можно приспособить под Ваш дизайн, экономно добавить в строку с другими мониторингами.Наталья ---------------------------------------------------------------------------------------------------------------------------------PS.1. Сделала два файла svg, как Вы просили. Один побольше, другой поменьше.https://eobmen-obmen.ru/EB1.svghttps://eobmen-obmen.ru/EB2.svg2. Проверьте XML файл. Ошибки, например, на странице https://eobmen-obmen.ru/usdttrc-to-btc.В Вашем файле для этой страницы видимUSDTTRC20BTC11.242443445815E-50.62122172378 USDTTRC20472500 USDTTRC20В нормально работающем обменнике, например trusteeswap.com, видимUSDTTRC20BTC51 USDT0.757344 USDT10010.00001288Сравните. Уберите формат чисел с плавающей запятой. Таких направлений у Вас много. Надо исправить. 28.04.2026, 11:15, moskva@eobmen-obmen.ru &nbsp; По поводу добавления обменника.Ок. Напишу, когда закончу работу.По поводу отдельной рекламы. У нас нет этой услуги.Наталья. 27.04.2026, 21:49, pr@comcash.cx Добрый вечер. Осуществили оплату. Также нас интересует покупка рекламы на вашем мониторинге. Предоставьте, пожалуйста, более детальную информацию, а также сразу укажите стоимость и ссылки. Транзакция: https://tronscan.org/#/transaction/4030088b9f8cc031675d7750721118246c278e690b949ccc0b314b139f349d05 24.04.2026 0:10, moskva@eobmen-obmen.ru пишет: &nbsp; Как можно оплатить:TEakeAMnAPFfvm87XW44k1oyP26W8h2qPt - tether (TRC20) USDT TEakeAMnAPFfvm87XW44k1oyP26W8h2qPt - Tron 23.04.2026, 22:11, pr@comcash.cx Здравствуйте, подскажите, пожалуйста, адрес USDT (TRC20). 23.04.2026 20:45, moskva@eobmen-obmen.ru пишет: &nbsp; Добавим обменник в рейтинг мониторинга в течение трех суток после оплаты за добавление 1800 руб. либо $25 на наш электронный кошелёк. 23.04.2026, 11:32, pr@comcash.cx Уважаемые коллеги, Команда обменного сервиса ComCash обращается с просьбой рассмотреть возможность включения нашего проекта в ваш мониторинг обменных пунктов. ComCash представляет собой онлайн-сервис обмена цифровых активов, предоставляющий пользователям возможность осуществлять обмен между криптовалютами, электронными платёжными системами и фиатными средствами. Основной приоритет проекта &mdash; обеспечение быстрого и удобного обмена при стабильной работе сервиса и соблюдении базовых принципов безопасности операций. В рамках развития проекта мы заинтересованы в размещении на профильных мониторинговых площадках и расширении присутствия среди пользователей, активно использующих обменные сервисы. Общая информация о сервисе: 1. Наименование сервиса: ComCash&nbsp; 2. Формат деятельности: онлайн обменный сервис цифровых активов&nbsp; 3. Основные направления: криптовалюты / электронные платёжные системы / фиатные валюты&nbsp; 4. Режим работы: 24/7 Просим рассмотреть возможность включения сервиса ComCash в ваш мониторинг, а также направить информацию о требованиях, условиях размещения и порядке дальнейшего рассмотрения заявки. В случае необходимости готовы предоставить дополнительную информацию, необходимую для первичной модерации и принятия решения о листинге. С уважением, Команда ComCash Сайт: https://comcash.cc Telegram: https://t.me/comcash_exchange Telegram-bot: https://t.me/comcashBot Email: pr@comcash.cx Файл курсов: https://comcash.cc/request-exportxml.xml Дополнительная информация: Дата основания: 17.03.2023 Местоположение: Нидерланды&nbsp;
+
+
+Message-ID: <e429646a-afd8-46d7-b302-1a0a82809b86@comcash.cx>
+Date: Tue, 09 Jun 2026 09:19:29 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: Замена ссылки
+To: KycNotList <kycnotlist@proton.me>
+References: <df9c183c-b20f-4883-95a5-03686d79591b@comcash.cx> <cGANs2r_8Ie_F1iIzH5Vtw74Y4kZLugB3FsmG8r65i-SriAt9ca7G7PRNxaq8s7fetcXF8_IFnInuEnjytiMPlkRXNApY1BjDBHYQsDfD3s=@proton.me>
+Content-Language: ru
+From: ComCash PR <pr@comcash.cx>
+X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; DSN=0; uuencode=0; attachmentreminder=0; deliveryformat=0
+X-Identity-Key: id7
+Fcc: imap://pr%40comcash.cx@mail.comcash.cx/Sent
+In-Reply-To: <cGANs2r_8Ie_F1iIzH5Vtw74Y4kZLugB3FsmG8r65i-SriAt9ca7G7PRNxaq8s7fetcXF8_IFnInuEnjytiMPlkRXNApY1BjDBHYQsDfD3s=@proton.me>
+Content-Type: text/plain; charset="UTF-8"; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+
+Здравствуйте, да всё верно. Спасибо большое!
+
+09.06.2026 5:16, KycNotList пишет:
+> Здравствуйте, получается ссылка https://comcash.exchange будет только для английской версии, а старая ссылка так и останется для русской версии, верно ?
+>
+>
+> воскресенье, 7 июня 2026 г., 18:37, ComCash PR <pr@comcash.cx> написал:
+>
+>> Добрый день,
+>>
+>> Просим, пожалуйста, заменить ссылку на https://comcash.exchange,
+>> поскольку нами было принято решение разделить русскоязычную и
+>> международную версии сайта.
+>>
+>> Заранее благодарим за внесение изменений.
+>>
+>>
+
+
+
+Return-Path: <info@cryptobrokers.ru>
+Delivered-To: pr@comcash.cx
+Received: from cp4.offsh.nl	by cp4.offsh.nl with LMTP	id jtgiNvf98mkyXQwA92UKjQ	(envelope-from <info@cryptobrokers.ru>)	for <pr@comcash.cx>; Thu, 30 Apr 2026 09:00:07 +0200
+Return-path: <info@cryptobrokers.ru>
+Envelope-to: pr@comcash.cx
+Delivery-date: Thu, 30 Apr 2026 09:00:07 +0200
+Received: from r5.mail1.smtp.beget.ru ([185.78.30.14])	by cp4.offsh.nl with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384	(Exim 4.99.1)	(envelope-from <info@cryptobrokers.ru>)	id 1wILNX-00000003SBp-3Mcv	for pr@comcash.cx;	Thu, 30 Apr 2026 09:00:07 +0200
+Received: from m2.mailnode14.beget.com ([5.101.158.6]:57419 helo=localhost)	by smtp.beget.ru with esmtpa (Exim 4.92.3-beget)	(envelope-from <info@cryptobrokers.ru>)	id 1wILNW-00028p-H8	for pr@comcash.cx; Thu, 30 Apr 2026 10:00:06 +0300
+MIME-Version: 1.0
+Date: Thu, 30 Apr 2026 09:00:06 +0200
+From: info@cryptobrokers.ru
+To: ComCash PR <pr@comcash.cx>
+Subject: Re: Заявка на добавление обменника РП
+In-Reply-To: <4d3aa68d-f7b9-406c-8f67-490b58baf279@comcash.cx>
+References: <XMmTjHHtge0NLvfM2DEP85BfNnBnS91eGvpwITDIQw@cryptobrokers.ru> <626ab8b12632bfb64bc59f55bf38e961@cryptobrokers.ru> <4d3aa68d-f7b9-406c-8f67-490b58baf279@comcash.cx>
+Message-ID: <9d5cdb640ad90bdd5747e9ae64aa6d62@cryptobrokers.ru>
+X-Sender: info@cryptobrokers.ru
+Content-Type: text/plain; charset="UTF-8"; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+
+Здравствуйте,
+
+Да конечно такая возможность есть.
+
+ComCash PR писал(а) 2026-04-27 11:32:
+> Доброго времени суток, вопрос следующий: а можно проплатить сразу на
+> полгода/год?
+> 
+> 27.04.2026 10:13, info@cryptobrokers.ru пишет:
+>> WordPress писал(а) 2026-04-23 18:52:
+>>> От: СomCash <pr@comcash.cx>
+>>> Тема: Добавление обменника
+>>> 
+>>> Название обменника: СomCash
+>>> URL обменника: https://comcash.cc
+>>> URL файла курсов: https://comcash.cc/request-exportxml.xml
+>>> URL партнерки: https://comcash.cc/at/a7b9c093877b8eed3577bff1c344eb59
+>>> WMID: К сожалению, WMID у нас отсутствует, так как наш сервис не
+>>> работает с WebMoney.
+>>> Комментарий:
+>>> ComCash представляет собой онлайн-сервис обмена цифровых активов,
+>>> предоставляющий пользователям возможность осуществлять обмен между
+>>> криптовалютами, электронными платёжными системами и фиатными
+>>> средствами. Основной приоритет проекта — обеспечение быстрого и
+>>> удобного обмена при стабильной работе сервиса и соблюдении базовых
+>>> принципов безопасности операций.
+>>> 
+>>> В рамках развития проекта мы заинтересованы в размещении на 
+>>> профильных
+>>> мониторинговых площадках и расширении присутствия среди 
+>>> пользователей,
+>>> активно использующих обменные сервисы.
+>>> 
+>>> Общая информация о сервисе:
+>>> 1. Наименование сервиса: ComCash
+>>> 2. Формат деятельности: онлайн обменный сервис цифровых активов
+>>> 3. Основные направления: криптовалюты / электронные платёжные системы
+>>> / фиатные валюты
+>>> 4. Режим работы: 24/7
+>>> 
+>>> Просим рассмотреть возможность включения сервиса ComCash в ваш
+>>> мониторинг, а также направить информацию о требованиях, условиях
+>>> размещения и порядке дальнейшего рассмотрения заявки.
+>>> 
+>>> В случае необходимости готовы предоставить дополнительную информацию,
+>>> необходимую для первичной модерации и принятия решения о листинге.
+>>> 
+>>> С уважением,
+>>> Команда ComCash
+>> Добрый день.
+>> 
+>> Мониторинг добавляет обменники только на платной основе.
+>> Стоимость размещения в листинге 25 USD в месяц.
+>> Количество кликов не имеет значения.
+>> 
+>> Если платное размещение вас устраивает, просим отправить средства по
+>> указанным реквизитам ниже.
+>> 
+>> Принимаем платежи за размещение в криптовалюте на следующие реквизиты.
+>> 
+>> BTC:   37NWXzqu8aGYpnEoAd8a5GegKtdhHz978Z
+>> LTC:   MTd1vFwJH1SMFbGfPNeMbis2LxEGZQcJ4R
+>> ETH:   0xF6a35EA53785FfBf40F78761cAC7a8b166eE17fF
+>> TRC20: TEcczLfKxtNMUMU8Nj4CCXjiaLEEku1tfF
+>> Tether USD (ERC20): 0x4753427BcE8F0348824F01Cb2Aa9cF351e65112c
+>> 
+>> 
+>> Убедительная просьба после оплаты выслать хэш транзакции.
+>> 
+>> Спасибо.
+
+
+
+Content-Type: multipart/alternative; boundary="------------o60EqOqksJCkK0la3ImLW5rE"
+Message-ID: <c6f1227a-a3d1-4d5e-8686-21a8c8d417ae@comcash.cx>
+Date: Wed, 29 Apr 2026 16:16:29 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: Рекламная интеграция
+To: Служба поддержки E-mon <support@e-mon.cc>
+References: <5f786311-857c-49be-afd4-db7d5d5870f9@comcash.cx> <CADAjYUkxh+X_+LJvtP5vO9Xu-qyUUhw-1AKPbymcnyDERW8e1A@mail.gmail.com> <fb71370f-0fbf-4ecd-9a36-120179a731d8@comcash.cx> <CADAjYUk9cRinG7zaEg2F7omGMUMUSRjA7fKUoRKWpJcyuzZn0g@mail.gmail.com>
+Content-Language: ru
+From: ComCash PR <pr@comcash.cx>
+In-Reply-To: <CADAjYUk9cRinG7zaEg2F7omGMUMUSRjA7fKUoRKWpJcyuzZn0g@mail.gmail.com>
+
+
+---------- text/plain ----------
+Здравствуйте,
+
+Отправили 120$, нужно ли ещё доплатить 10$ ?
+
+Хэш транзакции: 
+32b25d3cd2ecb36d1ecbb524ed5390d8a9f496258471b9455cf9583b08358c99
+
+28.04.2026 16:51, Служба поддержки E-mon пишет:
+> USDT
+>
+> TRC20
+> TGDQXvRXffc49EqQLVuGb4CWXNjVpwCW4K
+>
+> После оплаты отпишитесь в продолжении данного письма
+>
+> On Tue, Apr 28, 2026 at 4:44 PM ComCash PR <pr@comcash.cx> wrote:
+>
+>     Здравствуйте, предоставьте адрес для оплаты, готовы купить 3-й
+>     вариант на год.
+>
+>     28.04.2026 16:30, Служба поддержки E-mon пишет:
+>>     Добрый день
+>>
+>>     Возможны
+>>
+>>      1. Баннер у нас стоит 50 USDT в месяц или 500 USDT в год -
+>>         вверху на всех страницах
+>>      2. Статья в разделе новости - зависит от формата , который вам
+>>         нужен. С активной ссылкой - 20 USDT разово
+>>      3. Возможен закреп обменника в топ на странице
+>>         https://e-mon.cc/exchangers - 10 USDT в месяц
+>>
+>>     Также рассмотрим другие варианты, которые вам интересны
+>>
+>>     On Tue, Apr 28, 2026 at 12:45 PM ComCash PR <pr@comcash.cx> wrote:
+>>
+>>         Доброго времени суток,
+>>
+>>         Пожалуйста, предоставьте всю информацию по поводу рекламной
+>>         интеграции: баннеры, размещение в верхней части списка, а
+>>         также другие варианты рекламы на вашем мониторинге. Также
+>>         прошу указать стоимость для каждого варианта отдельно.
+>>
+>>         *Сайт:<https://secrex.io>https://comcash.cc<https://comcash.cc>Telegram:
+>>         https://t.me/comcash_exchange<https://t.me/comcash_exchange>Telegram-bot:
+>>         https://t.me/comcashBot<https://t.me/comcashBot>Email:
+>>         pr@comcash.cx*
+>>
+
+---------- text/html ----------
+Здравствуйте, Отправили 120$, нужно ли ещё доплатить 10$ ? Хэш транзакции: 32b25d3cd2ecb36d1ecbb524ed5390d8a9f496258471b9455cf9583b08358c99 28.04.2026 16:51, Служба поддержки E-mon пишет: USDT TRC20 TGDQXvRXffc49EqQLVuGb4CWXNjVpwCW4K После оплаты отпишитесь в продолжении данного письма On Tue, Apr 28, 2026 at 4:44 PM ComCash PR &lt;pr@comcash.cx&gt; wrote: Здравствуйте, предоставьте адрес для оплаты, готовы купить 3-й вариант на год. 28.04.2026 16:30, Служба поддержки E-mon пишет: Добрый день Возможны Баннер у нас стоит 50 USDT в месяц или 500 USDT в год - вверху на всех страницах Статья в разделе новости - зависит от формата , который вам нужен. С активной ссылкой - 20 USDT разово Возможен закреп обменника в топ на странице https://e-mon.cc/exchangers - 10 USDT в месяц Также рассмотрим другие варианты, которые вам интересны On Tue, Apr 28, 2026 at 12:45 PM ComCash PR &lt;pr@comcash.cx&gt; wrote: Доброго времени суток, Пожалуйста, предоставьте всю информацию по поводу рекламной интеграции: баннеры, размещение в верхней части списка, а также другие варианты рекламы на вашем мониторинге. Также прошу указать стоимость для каждого варианта отдельно. Сайт: https://comcash.cc Telegram: https://t.me/comcash_exchange Telegram-bot: https://t.me/comcashBot Email: pr@comcash.cx
+
+
+
+Return-Path: <pm_bounces@pm-bounces.invisioncloudcommunity.com>
+Delivered-To: pr-exchange@comcash.cx
+Received: from cp4.offsh.nl	by cp4.offsh.nl with LMTP	id fPuDDCrzI2pipAQA92UKjQ	(envelope-from <pm_bounces@pm-bounces.invisioncloudcommunity.com>)	for <pr-exchange@comcash.cx>; Sat, 06 Jun 2026 12:15:06 +0200
+Return-path: <pm_bounces@pm-bounces.invisioncloudcommunity.com>
+Envelope-to: pr-exchange@comcash.cx
+Delivery-date: Sat, 06 Jun 2026 12:15:06 +0200
+Received: from mta197a-ord.mtasv.net ([104.245.209.197])	by cp4.offsh.nl with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384	(Exim 4.99.4)	(envelope-from <pm_bounces@pm-bounces.invisioncloudcommunity.com>)	id 1wVo3W-00000001Rls-08bY	for pr-exchange@comcash.cx;	Sat, 06 Jun 2026 12:15:06 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=pm20250324; d=pm.mtasv.net; h=From:Date:Subject:Message-Id:Reply-To:To:MIME-Version:Content-Type:Date: From:Message-ID:Reply-To:Sender:Subject:To:CC; t=1780740906; x=1780827306; bh=O9/laejP/H1cLQ25VLEty71HvCh5v/71ehxXc3l0wEM=; b=AF/T5o5dhFIZmPxPIaT64j862reXIxp7MAKjtKVf8nR+H/9zTx/aNidtRnIezsnXwWtqt55mKIQD   2MyD46w/Bc/HrqEOoStFO8mvV+7+m72skL43yPpsrpppy3CXIOkOv04xj5oLZd+GBeovIbVx1PiE   YEGVoXgGFbFTW/qxkr25gHDu9gzbozvat+zI3m8j6HfREcpPiDB4oxMpMQrTYWC8xkcOIdm86Jzp   0RTPIMVe7JKjYaEzoAfVcOs7CFJHbKa5hIn+MWpZuvcp5IKTnrFAi6/8Qgt1bxn/viLPzJUsRU3L   dzoLBID4vr5yN54HfcIXFYov/KH/p3wXdlnqKA==
+Received: by mta197a-ord.mtasv.net id h4fpig3b84kh for <pr-exchange@comcash.cx>; Sat, 6 Jun 2026 06:15:04 -0400 (envelope-from <pm_bounces@pm-bounces.invisioncloudcommunity.com>)
+X-PM-IP: 104.245.209.197
+X-IADB-IP: 104.245.209.197
+X-IADB-IP-REVERSE: 197.209.245.104
+DKIM-Signature: v=1; a=rsa-sha256; d=invisioncloudcommunity.com;	s=20240731110543pm; c=relaxed/relaxed; i=noreply@invisioncloudcommunity.com;	t=1780740904; x=1780913704;	h=date:date:from:from:message-id:reply-to:reply-to:sender:subject:subject:to:	to:cc:feedback-id:mime-version:content-type;	bh=O9/laejP/H1cLQ25VLEty71HvCh5v/71ehxXc3l0wEM=;	b=qbe2MHSgC1mxq5wxHtGVOqZnbWxD7vzgykjfyRpeCyalsQvrjWYnFyzPO0iTYq3k+PNmNoZe5h/	XrkTmT/zTyPShjejesMwKG9hhH/QY44EXMK4Hfvi+z+kHX9bQnoBjyQAKMfcjB4O5s780BUW9KQfk	L+SP6wDyw+/s3lGMt74=
+From: "CoinForum.de" <noreply@invisioncloudcommunity.com>
+Date: Sat, 06 Jun 2026 10:15:04 +0000
+Subject: Deine Registrierung ist abgeschlossen!
+Message-Id: <2c900cc9-ea65-49de-b775-14acb73ceb63@mtasv.net>
+Reply-To: noreply@coinforum.de
+To: pr-exchange@comcash.cx
+X-IPS-SiteId: x248580
+Auto-Submitted: auto-generated
+Feedback-ID: s14095959-eDI0ODU4MA==:s14095959:a343539:postmark
+X-Complaints-To: abuse@postmarkapp.com
+X-PM-Message-Id: 2c900cc9-ea65-49de-b775-14acb73ceb63
+X-PM-Tag: x248580
+X-PM-RCPT: |bTB8MzQzNTM5fDE0MDk1OTU5fHByLWV4Y2hhbmdlQGNvbWNhc2guY3g=|
+X-PM-Message-Options: v1;1.So4j3w0ODofeQs6O6xvuVg.ZLF9nJIQ0j3Un2u73B77Atdtvb1Mp7Hbk-Pb4J8OZ2b3uZ-6QUzVpTOWh4bWkB4Lr9rfAH1YXyUIhOkuuA2rvRSgGpewtLXKraN5CHe4_goRDq2TkuoYqDr1J8nF4ELvQ-DgbdVotgxHERcnyDANbk0K5GydKuZo5efokP1afZg1I0DSaA3i-k3WsybbaYyD
+X-PM-Message-Details: v1;1.IFzrHVoH0AbkRWn1iObgzg.-h7DKgcgX2dseg9gVFqy2WHf2G3HRWXSriOBNcq6MtU
+MIME-Version: 1.0
+X-PM-MTA-Pool: transactional-2
+Content-Type: multipart/alternative; boundary="mk3-c4f9c2b139454af798ae2b95ec1c2879"; charset="UTF-8"
+
+
+---------- text/plain ----------
+
+
+
+Hallo ComCash,
+
+Willkommen bei CoinForum.de und danke für Deine Registrierung. Du kannst dich jetzt mit dem Passwort anmelden, das Du bei der Anmeldung gewählt hast.
+
+Weiter zu CoinForum.de: https://coinforum.de/
+
+-- CoinForum.de
+
+-----
+
+
+https://coinforum.de/privacy/
+
+CoinForum.de
+
+
+---------- text/html ----------
+Deine Registrierung ist abgeschlossen! CoinForum.de Hallo ComCash, Willkommen bei CoinForum.de und danke für Deine Registrierung. Du kannst dich jetzt mit dem Passwort anmelden, das Du bei der Anmeldung gewählt hast. Weiter zu CoinForum.de &mdash; CoinForum.de Hier klicken, um zu unserer Datenschutzerklärung zu gelangen CoinForum.de
+
+
+
+Return-Path: <info@p-reliz.ru>
+Delivered-To: pr@comcash.cx
+Received: from cp4.offsh.nl	by cp4.offsh.nl with LMTP	id QXAEC+vAKWpIyi0A92UKjQ	(envelope-from <info@p-reliz.ru>)	for <pr@comcash.cx>; Wed, 10 Jun 2026 21:54:19 +0200
+Return-path: <info@p-reliz.ru>
+Envelope-to: pr@comcash.cx
+Delivery-date: Wed, 10 Jun 2026 21:54:19 +0200
+Received: from forward100d.mail.yandex.net ([178.154.239.211])	by cp4.offsh.nl with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384	(Exim 4.99.4)	(envelope-from <info@p-reliz.ru>)	id 1wXP0F-0000000CbMR-0MCq	for pr@comcash.cx;	Wed, 10 Jun 2026 21:54:19 +0200
+Received: from mail-nwsmtp-smtp-production-main-88.klg.yp-c.yandex.net (mail-nwsmtp-smtp-production-main-88.klg.yp-c.yandex.net [IPv6:2a02:6b8:c43:d788:0:640:6e4d:0])	by forward100d.mail.yandex.net (Yandex) with ESMTPS id 18F48C00A7	for <pr@comcash.cx>; Wed, 10 Jun 2026 22:54:17 +0300 (MSK)
+Received: by mail-nwsmtp-smtp-production-main-88.klg.yp-c.yandex.net (smtp) with ESMTPSA id GsQZC5Qh2iE0-9syQT5dM;	Wed, 10 Jun 2026 22:54:16 +0300
+X-Yandex-Fwd: 1
+Authentication-Results: mail-nwsmtp-smtp-production-main-88.klg.yp-c.yandex.net; dkim=pass
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject:  Пресс-релиз отклонен (причина в комментарии)
+From: "P-Reliz.ru" <info@p-reliz.ru>
+To: pr@comcash.cx
+Date: Wed, 10 Jun 2026 19:54:16 -0000
+Message-ID: <178112125622.3739825.4116616151543227390@iq7.iqm.su>
+
+
+Здравствуйте! Публикация пресс-релиза «Криптообменник Comcash.cc: Надежный, быстрый и безопасный обмен криптовалюты на банковские карты» отклонена. Комментарий: Пожалуйста, ознакомьтесь с нашими простыми правилами и рекомендациями - https://p-reliz.ru/easyrules/ - это не только ускорит и облегчит размещение пресс-релиза, но и сэкономит время и поможет избежать недоразумений. = Актуальный прайс, снимающий многие ограничения по размещению, можно посмотреть/скачать тут: https://p-reliz.ru/ads/ -- С уважением, Платформа-агрегатор пресс- и пост-релизов нового поколения P-Reliz.ru Быстро, просто, без посредников. Доброй работы всем нам.©
+
+
+
+Return-Path: <kycnotlist@proton.me>
+Delivered-To: pr@comcash.cx
+Received: from cp4.offsh.nl	by cp4.offsh.nl with LMTP	id +agaDX13J2pOyCoA92UKjQ	(envelope-from <kycnotlist@proton.me>)	for <pr@comcash.cx>; Tue, 09 Jun 2026 04:16:29 +0200
+Return-path: <kycnotlist@proton.me>
+Envelope-to: pr@comcash.cx
+Delivery-date: Tue, 09 Jun 2026 04:16:29 +0200
+Received: from mail-106119.protonmail.ch ([79.135.106.119])	by cp4.offsh.nl with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384	(Exim 4.99.4)	(envelope-from <kycnotlist@proton.me>)	id 1wWm0z-0000000BqMk-08t1	for pr@comcash.cx;	Tue, 09 Jun 2026 04:16:29 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=proton.me;	s=protonmail; t=1780971387; x=1781230587;	bh=43kW7RAWUvPALSHfSwbbI+tr1hstLphd9O8eYA6IWb4=;	h=Date:To:From:Subject:Message-ID:In-Reply-To:References:	 Feedback-ID:From:To:Cc:Date:Subject:Reply-To:Feedback-ID:	 Message-ID:BIMI-Selector;	b=In8S6bRPCX14osMQ8WALW57frtYh4dArSmTJOFAWE3eMWzdpK6D7KvNqhVpOcHB+t	 yrEaLXoEj9qtc7F9FPqR5pnyhBlsZ3hMz+WOVP58/YAYI8xJ9tEup6mwsYRtkYYcrG	 bKrhluF4FdPiMeMH69c5lZySLWxrPrc+SaC7KTBIRdrm7h2aUzVHABJ8NgDPTAq7Je	 unHAWdU2TSeg8/LYxYek4osRZUfaYhvOuiuiahty9mERBoU0zAXIcj7dAgvJY29N+W	 xpZTiG7jlaMLFikDF+8Y6DFJTQgueSOaUd2TBLfRPKAyaNqnO2we7ai7w/chCr0jlQ	 bSLJz+O5tUe9A==
+Date: Tue, 09 Jun 2026 02:16:23 +0000
+To: ComCash PR <pr@comcash.cx>
+From: KycNotList <kycnotlist@proton.me>
+Subject: Re: Замена ссылки
+Message-ID: <cGANs2r_8Ie_F1iIzH5Vtw74Y4kZLugB3FsmG8r65i-SriAt9ca7G7PRNxaq8s7fetcXF8_IFnInuEnjytiMPlkRXNApY1BjDBHYQsDfD3s=@proton.me>
+In-Reply-To: <df9c183c-b20f-4883-95a5-03686d79591b@comcash.cx>
+References: <df9c183c-b20f-4883-95a5-03686d79591b@comcash.cx>
+Feedback-ID: 189722674:user:proton
+X-Pm-Message-ID: 6357125022b8919f1a07906affcac3a65e9e0b14
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+Здравствуйте, получается ссылка https://comcash.exchange будет только для английской версии, а старая ссылка так и останется для русской версии, верно ?
+
+
+воскресенье, 7 июня 2026 г., 18:37, ComCash PR <pr@comcash.cx> написал:
+
+> Добрый день,
+> 
+> Просим, пожалуйста, заменить ссылку на https://comcash.exchange,
+> поскольку нами было принято решение разделить русскоязычную и
+> международную версии сайта.
+> 
+> Заранее благодарим за внесение изменений.
+> 
+> 
+
+
+
+Message-ID: <e429646a-afd8-46d7-b302-1a0a82809b86@comcash.cx>
+Date: Tue, 09 Jun 2026 09:19:29 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: Замена ссылки
+To: KycNotList <kycnotlist@proton.me>
+References: <df9c183c-b20f-4883-95a5-03686d79591b@comcash.cx> <cGANs2r_8Ie_F1iIzH5Vtw74Y4kZLugB3FsmG8r65i-SriAt9ca7G7PRNxaq8s7fetcXF8_IFnInuEnjytiMPlkRXNApY1BjDBHYQsDfD3s=@proton.me>
+Content-Language: ru
+From: ComCash PR <pr@comcash.cx>
+X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; DSN=0; uuencode=0; attachmentreminder=0; deliveryformat=0
+X-Identity-Key: id7
+Fcc: imap://pr%40comcash.cx@mail.comcash.cx/Sent
+In-Reply-To: <cGANs2r_8Ie_F1iIzH5Vtw74Y4kZLugB3FsmG8r65i-SriAt9ca7G7PRNxaq8s7fetcXF8_IFnInuEnjytiMPlkRXNApY1BjDBHYQsDfD3s=@proton.me>
+Content-Type: text/plain; charset="UTF-8"; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+
+Здравствуйте, да всё верно. Спасибо большое!
+
+09.06.2026 5:16, KycNotList пишет:
+> Здравствуйте, получается ссылка https://comcash.exchange будет только для английской версии, а старая ссылка так и останется для русской версии, верно ?
+>
+>
+> воскресенье, 7 июня 2026 г., 18:37, ComCash PR <pr@comcash.cx> написал:
+>
+>> Добрый день,
+>>
+>> Просим, пожалуйста, заменить ссылку на https://comcash.exchange,
+>> поскольку нами было принято решение разделить русскоязычную и
+>> международную версии сайта.
+>>
+>> Заранее благодарим за внесение изменений.
+>>
+>>
+
+
+
+Return-Path: <admin@bitcoinmarket.global>
+Delivered-To: support@ipay24.org
+Received: from cp4.offsh.nl	by cp4.offsh.nl with LMTP	id yXRGMTiVCGraWQIA92UKjQ	(envelope-from <admin@bitcoinmarket.global>)	for <support@ipay24.org>; Sat, 16 May 2026 18:03:04 +0200
+Return-path: <admin@bitcoinmarket.global>
+Envelope-to: support@ipay24.org
+Delivery-date: Sat, 16 May 2026 18:03:04 +0200
+Received: from bitcoinmarket.global ([193.169.244.215])	by cp4.offsh.nl with esmtps  (TLS1.2) tls TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256	(Exim 4.99.2)	(envelope-from <admin@bitcoinmarket.global>)	id 1wOHTi-00000000nIa-2Ajx	for support@ipay24.org;	Sat, 16 May 2026 18:03:04 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;	d=bitcoinmarket.global; s=dkim; h=Content-Transfer-Encoding:Content-Type:	Message-ID:References:In-Reply-To:Subject:To:From:Date:MIME-Version:Sender:	Reply-To:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:List-Help:	List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;	bh=LMUpu1XQvpszyFqyHFmmXOIYFc03tRogTBxXUNFNadw=; b=sqFR5DYz80Oeoon6XWg9DRYUeV	3ISvHto85shFgFfOCul9K0L0L3z4YBKDLvB4gOEFYjFSuTaZJ/1DBP3Hv6ezSXbGquT3JIzSU1tn7	yREgT6E9AKEiGMFIc9leAx2KEKv2Wg77cMJMXXrH8PGFF82rPF7WACSlIaeCjuqdKD/k=;
+Received: from [::1] (helo=bitcoinmarket.global)	by bitcoinmarket.global with esmtpa (Exim 4.97.1)	(envelope-from <admin@bitcoinmarket.global>)	id 1wOHTh-0000000079X-3ryX	for support@ipay24.org;	Sat, 16 May 2026 19:03:01 +0300
+MIME-Version: 1.0
+Date: Sat, 16 May 2026 19:03:01 +0300
+From: BitcoinMarket <admin@bitcoinmarket.global>
+To: support@ipay24.org
+Subject: Re: Добавление обменника
+In-Reply-To: <53f45cd1-cc21-4ee9-8aae-0c3885db68f2@ipay24.org>
+References: <E1wNa8u-000000005j6-1SfN@bitcoinmarket.global> <cf129ec515586a1838c3c8cfd812b095@bitcoinmarket.global> <53f45cd1-cc21-4ee9-8aae-0c3885db68f2@ipay24.org>
+Message-ID: <473e2e2e133343a070f630b7a9d8810d@bitcoinmarket.global>
+X-Sender: admin@bitcoinmarket.global
+Content-Type: text/plain; charset="UTF-8"; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+
+  Уточните, почему у вас курс обмена с BTC на ETH 37.7693, а с ETH на BTC 
+курс 34.0868 вы работаете себе в минус или у вас есть доп. комиссии?
+
+support@ipay24.org писал(а) 2026-05-16 14:15:
+> Оплатили
+> 0d74f89daf5af3af7c32002d2242a0e3f945c335e0eb6988f39b40e25fbd5e14
+> 
+> On 5/15/2026 10:56 AM, BitcoinMarket wrote:
+>>  Здравствуйте. На данный момент готовы разместить ваш обменный пункт 
+>> за единоразовую оплату в 300$.
+>> 
+>> support@ipay24.org писал(а) 2026-05-14 20:46:
+>>> Запрос добавления обменника:
+>>> Название: ipay24
+>>> Email: support@ipay24.org
+>>> URL: https://ipay24.org/
+>>> URL курсов: https://ipay24.org/request-exportxml.xml
+>>> Дата создания: 2017-03-01
+>>> Страна: Нидерланды
+>>> Комментарий: Мы делаем обмен криптовалюты простым и понятным, 
+>>> минимизируем количество действий, чтобы вы быстро получали средства 
+>>> удобным способом. Наш многолетний опыт и честная политика по возврату 
+>>> средств создают максимально комфортные условия для каждого клиента.
+
+
+
+
+Message-ID: <736ed67c-8d11-4c1e-af41-7bc6a1ef5772@ipay24.org>
+Date: Fri, 15 May 2026 18:35:20 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: Сотрудничество
+To: mail@cryptalist.io
+References: <c63f280c8af43c0689d165b7cc069ff4@cryptalist.io>
+Content-Language: en-US
+From: "support@ipay24.org" <support@ipay24.org>
+In-Reply-To: <c63f280c8af43c0689d165b7cc069ff4@cryptalist.io>
+Content-Type: text/plain; charset="UTF-8"; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+
+1) Нидерланды
+2)01.03.2017
+3)уточните
+4)После добавления, да
+5)Хорошо
+
+Можно реквизиты для оплаты
+
+On 5/15/2026 5:57 PM, mail@cryptalist.io wrote:
+> Вы оставляли заявку на включение в
+> мониторинг криптообменников
+> CRYPTALIST.io
+>
+> Вступительный взнос на добавление в
+> листинг - 100 USDt.
+>
+> Если Вам интересен такой формат
+> сотрудничества, напишите нам.
+>
+> От вас потребуется:
+> - страна обменника
+> - дата начала работы
+> - установка партнерского процента
+> для нашей учетки у вас
+> - установка нашей кнопки на Вашем
+> сайте со ссылкой на страницу
+> обменника
+> - желательна регистрация у нас для
+> управления настройками обменника и
+> просмотра статистики
+>
+> С уважением, команда CRYPTALIST.io
